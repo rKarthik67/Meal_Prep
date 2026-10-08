@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.env
+*service-account*.json
+app/build/
+app/.dart_tool/
+.DS_Store
+logs/
